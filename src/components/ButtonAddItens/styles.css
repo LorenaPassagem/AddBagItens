@@ -1,0 +1,9 @@
+.item  {
+  background-color: brown;
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  font-size: 50px;
+  padding: 5px;
+  border-radius: 100%;
+}
